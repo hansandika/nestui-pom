@@ -1,6 +1,3 @@
 node_modules
-package.json
-.gitignnore
-.git
-.prettierrc.js
+package-lock.json
 ```

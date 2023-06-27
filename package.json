@@ -1,0 +1,19 @@
+{
+  "name": "nestui-pom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress": "^12.16.0"
+  }
+}
